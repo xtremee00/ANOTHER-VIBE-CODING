@@ -1,0 +1,6 @@
+{
+  "name": "AI Acquisition Studio",
+  "description": "Instantly generate complete startup acquisition assets including branding, interactive financial forecasts, copy, pitch decks, and acquisition strategies from a single idea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
